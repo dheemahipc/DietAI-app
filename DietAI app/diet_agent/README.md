@@ -1,4 +1,4 @@
-# 🥗 Diet Expert AI - Comprehensive Health & Fitness Agentic System
+# 🥗 Diet AI - Comprehensive Health & Fitness Agentic System
 
 A sophisticated AI-powered dietician and health expert system built with Google's ADK (Agent Development Kit). This system provides personalized nutrition planning, exercise guidance, and ongoing health coaching with memory persistence and intelligent conversation management.
 
