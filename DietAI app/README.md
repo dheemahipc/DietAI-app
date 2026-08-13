@@ -10,9 +10,3 @@ This project goes beyond a simple LLM wrapper by integrating custom Python math 
 * **Agentic Precision:** The AI is strictly prompt-engineered to stay within health/fitness domains and relies on explicit Python functions to calculate exact BMI, BMR (Mifflin-St Jeor), and macro targets, eliminating LLM math hallucinations.
 * **GitOps CI/CD:** Fully automated deployments. Code pushes trigger GitHub Actions to build and tag new Docker images, which are then synced and deployed via ArgoCD with zero downtime.
 * **Kubernetes Ready:** Engineered to run smoothly on Kubernetes clusters with proper health checks and fast APIs.
-
----
-<img width="1554" height="1550" alt="image" src="https://github.com/user-attachments/assets/12c406db-a0f7-45d9-9a28-b46a5707ff95" />
-
-
-<img width="1448" height="834" alt="image" src="https://github.com/user-attachments/assets/08902ffb-de9a-48d9-957c-4a0de517f299" />
